@@ -1,4 +1,4 @@
 # What's this about?
-This repository contains homework for a server management course led by Tero Karvinen at <https://terokarvinen.com/palvelinten-hallinta/> !
-<br>
-> The course is sponsored by the educational institution `Haaga Helia`
+This repository contains my work for a [server management course](<https://terokarvinen.com/palvelinten-hallinta/>) led by Tero Karvinen
+
+Each task can be identified by the `H` prefix
